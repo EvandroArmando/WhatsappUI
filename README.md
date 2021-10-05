@@ -5,7 +5,7 @@
   * Digitar o comando Flutter run
   * Ou digitar o comando flutter get packages.
 
-###Como contribuir
+### Como contribuir
 
   + Dar um fork no projecto.
 * Criar uma nova branche denominada change.
