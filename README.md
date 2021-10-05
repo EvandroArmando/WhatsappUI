@@ -1,11 +1,11 @@
 # WhatsappUI
  Redesenhado a UI do Whatsapp
 
-##Comandos rodar na sua maquina
+#### Comandos rodar na sua maquina
   * Digitar o comando Flutter run
   * Ou digitar o comando flutter get packages.
 
-### Como contribuir
+####Como contribuir
 
   + Dar um fork no projecto.
 * Criar uma nova branche denominada change.
