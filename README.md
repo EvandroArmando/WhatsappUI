@@ -33,3 +33,7 @@
 <a style="margin: 0 5px 0;" href="https://github.com/epifaniofrancisco">
 <img width="175" src="https://avatars.githubusercontent.com/u/81193129?v=4">
 </a>
+
+## Criadores 
+
+Criado por <a href="https://github.com/EvandroArmando">Evandro Armando </a>  e  <a href="hhttps://github.com/epifaniofrancisco">Epifanio Francisco</a> 💻 em 2 de Outubro de 2021
