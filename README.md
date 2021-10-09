@@ -17,20 +17,17 @@
 
 ## Imagens actuais
 
-<div>
-<a style="margin: 0 5px 0;"><img src="imagens/tela01.jpeg  "  width="175"/></a>
-
-<a style="margin: 0 5px 0;"><img src="imagens/tela02.jpeg  "  width="175"/></a>
-
-
-
-<a style="margin: 0 5px 0;" href="https://github.com/Creuma-Kuzola">
-<img width="175" src="https://avatars.githubusercontent.com/u/58623474?v=4">
-</a>
-
-
-
-
 
 
 </div>
+
+<div class="row">
+  <div class="coluna">
+    <img src="imagens/tela01.jpeg" alt="descrição da imagem" style="width:100%">
+  </div>
+  <div class="coluna">
+    <img src="imagens/tela02.jpeg" alt="descrição da imagem" style="width:100%">
+  </div>
+  <div class="coluna">
+    <img src="imagens/tela03.jpeg" alt="descrição da imagem" style="width:100%">
+  </div></div>
