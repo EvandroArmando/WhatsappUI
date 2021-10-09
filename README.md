@@ -24,9 +24,8 @@
 
 
 <p align="center" float="left">
-  <a style="margin: 0 5px 0;"
+  
   <img src="imagens/tela01.jpeg" width="170" />
-  </a>
   <img src="imagens/tela02.jpeg" width="170" /> 
   <img src="imagens/tela02.jpeg" width="170" /> 
 
