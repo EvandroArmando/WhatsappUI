@@ -23,11 +23,11 @@
 
 <div class="row">
   <div class="coluna">
-    <img src="imagens/tela01.jpeg" alt="descrição da imagem" style="width:100%">
+    <img src="imagens/tela01.jpeg" alt="descrição da imagem" style="width:100">
   </div>
   <div class="coluna">
-    <img src="imagens/tela02.jpeg" alt="descrição da imagem" style="width:100%">
+    <img src="imagens/tela02.jpeg" alt="descrição da imagem" style="width:100">
   </div>
   <div class="coluna">
-    <img src="imagens/tela03.jpeg" alt="descrição da imagem" style="width:100%">
+    <img src="imagens/tela03.jpeg" alt="descrição da imagem" style="width:100">
   </div></div>
