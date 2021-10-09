@@ -34,6 +34,15 @@
 <img width="175" src="https://avatars.githubusercontent.com/u/81193129?v=4">
 </a>
 
+
+## Configuração
+
+Se você não tem ideia de como instalar o Flutter e executá-lo localmente,
+[_Get started_](https://flutter.dev/docs/get-started/install).
+
+Se você tiver o Flutter configurado localmente, na pasta raiz do projeto, instale as dependências do pubspec executando
+`flutter pub get`.
+
 ## Criadores 
 
 Criado por <a href="https://github.com/EvandroArmando">Evandro Armando </a>  e  <a href="https://github.com/epifaniofrancisco">Epifanio Francisco</a> 💻 em 2 de Outubro de 2021
