@@ -18,9 +18,9 @@
 ## Imagens actuais
 
 <div>
-<a><img src="imagens/tela01.jpeg  "  width="300"/></a>
+<a style="margin: 0 5px 0;"><img src="imagens/tela01.jpeg  "  width="300"/></a>
 
-<a><img src="imagens/tela02.jpeg  "  width="300"/></a>
+<a style="margin: 0 5px 0;"><img src="imagens/tela02.jpeg  "  width="300"/></a>
 
 
 </div>
