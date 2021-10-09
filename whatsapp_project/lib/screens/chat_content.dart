@@ -1,3 +1,5 @@
+// ignore_for_file: avoid_unnecessary_containers, prefer_const_constructors, sized_box_for_whitespace
+
 import 'package:bubble/bubble.dart';
 import 'package:flutter/material.dart';
 import 'package:line_icons/line_icons.dart';
@@ -71,6 +73,7 @@ class _ChatContentState extends State<ChatContent> {
           color: primary,
         ),
       ),
+      // ignore: prefer_const_literals_to_create_immutables
       actions: [
         Icon(
           LineIcons.video,

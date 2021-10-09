@@ -1,3 +1,5 @@
+// ignore_for_file: unused_import, prefer_const_constructors, duplicate_ignore, prefer_const_literals_to_create_immutables, sized_box_for_whitespace
+
 import 'package:flutter/material.dart';
 import 'package:line_icons/line_icon.dart';
 import 'package:line_icons/line_icons.dart';
@@ -25,8 +27,10 @@ class _ChatScreenState extends State<ChatScreen> {
   getAppBar() {
     return AppBar(
       backgroundColor: bgColor,
+      // ignore: prefer_const_constructors
       leading: IconButton(
         onPressed: null,
+        // ignore: prefer_const_constructors
         icon: Text(
           "Editar",
           style: TextStyle(

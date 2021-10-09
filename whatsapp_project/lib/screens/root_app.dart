@@ -1,3 +1,5 @@
+// ignore_for_file: non_constant_identifier_names, prefer_const_constructors, avoid_web_libraries_in_flutter, unused_import
+
 import 'dart:html';
 
 import 'package:flutter/material.dart';
@@ -30,6 +32,7 @@ class _RootAppState extends State<RootApp> {
   Body() {
     return IndexedStack(
       index: pageIndex,
+      // ignore: prefer_const_literals_to_create_immutables
       children: [
         StatusScreen(),
         CallsScreen(),
