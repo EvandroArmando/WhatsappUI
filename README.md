@@ -37,7 +37,7 @@
 
 
 <a style="margin: 0 5px 0;" href="https://github.com/ElianaNeto">
-<img width="175" src="https://github.com/EvandroArmando/WhatsappUI/blob/main/imagens/tela01.jpeg
+<img width="175" src="imagens/tela01.jpeg
 ">
 </a>
 
