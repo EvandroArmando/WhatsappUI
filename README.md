@@ -24,8 +24,8 @@
 
 
 <p float="left">
-  <img src="imagens/tela01.jpeg" width="100" />
-  <img src="imagens/tela02.jpeg" width="100" /> 
-  <img src="imagens/tela02.jpeg" width="100" /> 
+  <img src="imagens/tela01.jpeg" width="170" />
+  <img src="imagens/tela02.jpeg" width="170" /> 
+  <img src="imagens/tela02.jpeg" width="170" /> 
 
 </p>
