@@ -36,4 +36,4 @@
 
 ## Criadores 
 
-Criado por <a href="https://github.com/EvandroArmando">Evandro Armando </a>  e  <a href="hhttps://github.com/epifaniofrancisco">Epifanio Francisco</a> 💻 em 2 de Outubro de 2021
+Criado por <a href="https://github.com/EvandroArmando">Evandro Armando </a>  e  <a href="https://github.com/epifaniofrancisco">Epifanio Francisco</a> 💻 em 2 de Outubro de 2021
