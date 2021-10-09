@@ -37,7 +37,8 @@
 
 
 <a style="margin: 0 5px 0;" href="https://github.com/ElianaNeto">
-<img width="175" src="https://avatars.githubusercontent.com/u/70918654?v=4">
+<img width="175" src="imagens/tela01.jpeg 
+">
 </a>
 
 
