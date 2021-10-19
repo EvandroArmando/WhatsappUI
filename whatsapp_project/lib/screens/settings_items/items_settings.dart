@@ -23,29 +23,40 @@ class PrimeiraDiv extends StatelessWidget {
       child: Scaffold(
         body: Column(
           children: [
-            Container(
-              height: 80,
-              decoration: BoxDecoration(
-                color: Colors.black.withOpacity(0.8)
-              ),
-              child: Padding(
-                padding: const EdgeInsets.all(8.0),
-                child: Column(
-                  children: [
-                    Row(
-                      mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                      children: [
-                        PersonIcone(),
-                        Padding(
-                          padding: const EdgeInsets.only(right: 40),
-                          child: QrIcon(),
-                        ),
+            PrimeiraParte()
+          ],
+        ),
+      ),
+    );
+  }
+}
 
-                      ],
-                    )
-                  ],
+class PrimeiraParte extends StatelessWidget {
+  const PrimeiraParte({
+    Key? key,
+  }) : super(key: key);
+
+  @override
+  Widget build(BuildContext context) {
+    return Container(
+      height: 80,
+      decoration: BoxDecoration(
+        color: Colors.black.withOpacity(0.8)
+      ),
+      child: Padding(
+        padding: const EdgeInsets.all(8.0),
+        child: Column(
+          children: [
+            Row(
+              mainAxisAlignment: MainAxisAlignment.spaceBetween,
+              children: [
+                PersonIcone(),
+                Padding(
+                  padding: const EdgeInsets.only(right: 40),
+                  child: QrIcon(),
                 ),
-              ),
+
+              ],
             )
           ],
         ),
@@ -86,7 +97,7 @@ class PersonIcone extends StatelessWidget {
     return Row(
       children: [
         Container( 
-          margin: EdgeInsets.only(left: 40),
+          margin: EdgeInsets.only(left: 10),
           width:48,
           decoration: BoxDecoration( 
           borderRadius: BorderRadius.circular(24),
