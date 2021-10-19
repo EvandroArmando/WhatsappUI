@@ -1,6 +1,5 @@
 // ignore_for_file: non_constant_identifier_names, prefer_const_constructors, avoid_web_libraries_in_flutter, unused_import
 
-import 'dart:html';
 
 import 'package:flutter/material.dart';
 import 'package:line_icons/line_icons.dart';

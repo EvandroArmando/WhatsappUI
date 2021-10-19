@@ -1,6 +1,5 @@
 // ignore_for_file: prefer_const_constructors, avoid_web_libraries_in_flutter, unused_import
 
-import 'dart:html';
 
 import 'package:flutter/material.dart';
 import 'package:whatsapp_clone/themes/colors.dart';

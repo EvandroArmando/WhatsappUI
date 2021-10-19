@@ -1,7 +1,8 @@
-// ignore_for_file: use_key_in_widget_constructors, prefer_const_constructors
+// ignore_for_file: use_key_in_widget_constructors, prefer_const_constructors, unused_import
 
 import 'package:flutter/material.dart';
 import 'package:whatsapp_clone/screens/root_app.dart';
+import 'package:whatsapp_clone/screens/settings_items/items_settings.dart';
 
 void main() {
   runApp(MyApp());
