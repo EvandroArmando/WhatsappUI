@@ -52,7 +52,7 @@ class PrimeiraParte extends StatelessWidget {
               children: [
                 PersonIcone(),
                 Padding(
-                  padding: const EdgeInsets.only(right: 40),
+                  padding: const EdgeInsets.only(right: 20),
                   child: QrIcon(),
                 ),
 
@@ -73,13 +73,13 @@ class QrIcon extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container( 
-           width:26,
+           width:45,
           decoration: BoxDecoration( 
           borderRadius: BorderRadius.circular(24),
           color: Colors.grey.withOpacity(0.3),),
           child: 
              Icon(Icons.qr_code,
-             size: 20,
+             size: 40,
              color: Colors.blue,
               
              ),
