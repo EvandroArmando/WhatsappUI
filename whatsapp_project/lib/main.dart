@@ -2,6 +2,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:whatsapp_clone/screens/root_app.dart';
+import 'package:whatsapp_clone/screens/settings_items/item_list_settings.dart';
 import 'package:whatsapp_clone/screens/settings_items/items_settings.dart';
 
 void main() {
@@ -18,7 +19,8 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: RootApp(),
+      home: listItem()
+      //RootApp(),
     );
   }
 }
