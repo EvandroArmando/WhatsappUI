@@ -1,4 +1,4 @@
-// ignore_for_file: camel_case_types, prefer_const_constructors, sized_box_for_whitespace, avoid_unnecessary_containers, non_constant_identifier_names
+// ignore_for_file: camel_case_types, prefer_const_constructors, sized_box_for_whitespace, avoid_unnecessary_containers, non_constant_identifier_names, duplicate_ignore
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
@@ -112,7 +112,7 @@ class listItem extends StatelessWidget {
                 // ignore: prefer_const_literals_to_create_immutables
                 children: [
                   ParteCima_settings(
-                    texto: 'Conversas', cor_fundo_icone: Colors.green.withOpacity(0.8), icone_Superior: Icons.whatshot,
+                    texto: 'Conversas', cor_fundo_icone: Colors.green.withOpacity(0.8), icone_Superior: Icons.ac_unit_outlined,
                   ),
                   ParteBaixo_settings(
                     cor: Colors.white38,
